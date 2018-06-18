@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\bin\Debug\ProyectoX.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\bin\Debug\ProyectoX.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\bin\Debug\ProyectoX.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\bin\Debug\ProyectoX.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\bin\Debug\ProyectoX.application
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.application
